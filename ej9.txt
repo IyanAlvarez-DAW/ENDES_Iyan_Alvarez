@@ -1,0 +1,8 @@
+¨Que es el staging en git?
+Es una zona intermedia donde se almacena temporalmente los cambios que deseas incluir en el proximo commit.
+¨Que comando utilizas para ver el estado actual de los archivos en tu repositorio? ¨Que informacion te proporciona?
+Uso el comando "status" que me otorga la informacion de los archivos que estan preparados y listos, los que han sido modificados pero no preparados y los archivos recien creados que GIT no rastrea
+¨Cual es la diferencia entre Git ass y Git commit?
+Git add (lo escribi mal y no puedo cambiarlo) lo uso para a¤adir modificaciones presentes, es una area para los cambios que se incluiran en el siguiente commit, mientras que git commit guarda los cambios realizados en el staging y crea un estado actual del proyecto.
+¨Que informacion te otorga el comando git log?
+Permite ver el historial de confirmaciones en un repositorio, mostrando todas las confirmaciones siento la mas reciente la que aparece al principio.
